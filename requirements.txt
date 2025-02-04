@@ -1,0 +1,7 @@
+python-telegram-bot==21.10
+requests
+python-dotenv
+pytz
+translate
+telegram
+matplotlib
